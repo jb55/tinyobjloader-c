@@ -1,10 +1,10 @@
 {
   "name": "tinyobjloader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "upstream": "syoyo/tinyobjloader-c",
   "repo": "jb55/tinyobjloader-c",
   "description": "Wavefront OBJ Loader",
   "keywords": ["obj", "wavefront"],
   "license": "MIT",
-  "src": ["tinyobj_loader_c.h"]
+  "src": ["tinyobjloader.h"]
 }
